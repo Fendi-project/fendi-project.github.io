@@ -1,0 +1,9 @@
+= Première version (V0)
+
+:published_at: 2015-03-30
+:hp-tags: V0, Mécanique
+
+
+Le but de cette première version est de pouvoir rapidement arriver à une plateforme fonctionnelle afin de travailler sur le code. Pour cela, nous réutilisons le maximum de pièces du darwin mini que nous possédons afin de réduire les coûts. Cependant, nous voulions rajouter un dégré de liberté par jambe afin de pouvoir faire tourner le robot. De plus, nous voulions aussi lui rajouter une colonne vertébrale afin de lui donner un comportement peu plus humain. Pour cela nous lui avons rajouté 2 moteurs. Au final nous avons gardé les pièces du darwin des bras et des jambes. Avec cela, nous avons une plateforme de développement pour tester ces nouvelles rotations. Par la suite, nous passerons à une nouvelle version entièrement créé ou aucune pièce du robot darwin existera. Nous prendrons en compte les modifications et les améliorations que nous aurons vues lors de la validation de la marche du robot
+
+Voici maintenant les plans 3D de cette première version
