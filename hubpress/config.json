@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "Fendi-project",
-    "repositoryName": "fendi-project.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Saga"
-  }
-}
+{"meta":{"username":"Fendi-project","repositoryName":"fendi-project.github.io","branch":"master"},"site":{"url":"https://Fendi-project.github.io"},"socialnetwork":{},"theme":{"name":"Saga","url":"//Fendi-project.github.io/themes/Saga"}}
