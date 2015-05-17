@@ -1,0 +1,26 @@
+= Le commencement !
+
+:published_at: 2015-03-20
+:hp-tags: actualité
+:hp-image: covers/the_beginning.png
+
+Bonjour tout le monde !
+
+Voici notre premier article qui va traiter de la naissance du projet, mais avant tout je vais vous présenter le blog et son fonctionnement. Il a pour objectif de vous montrer l’avancement du projet au travers de plusieurs articles et de recueillir vos avis au fur et à mesure.  
+Tout d’abord, commençons par une rapide présentation. Qui sont les personnes (un peu folles) qui se sont lancées dans ce projet ? Il y a Alexandre, un ingénieur mécatronique breton fraîchement diplômé (on passe les blagues sur les Bretons et je vous informe, par avance : il fait beau !) et Yusuf qui est, quant à lui, étudiant et attendu à l’école 42 d’ici 2016. Nous sommes des passionnés de robotique et plus particulièrement de robotique humanoïde. J’ai pour ma part travaillé sur le projet Poppy durant mon stage de fin d'études à l’INRIA.  Mon sujet fut la création d’un nouveau type de pied (je pourrai vous écrire un roman là-dessus, mais ce n’est pas le but). Suite à ce stage, j’ai définitivement attrapé le virus de l’humanoïde et je me suis lancé dans la création de ce projet. À propos de Yusuf, il recherchait une plateforme de développement humanoïde afin d’améliorer ses connaissances en informatique et aussi pour s'amuser un peu avec un robot.
+Nous souhaitons créer un mini humanoïde avec 21 DOFs (degré de liberté) minimum. Nous voulons que le robot ait une colonne vertébrale avec 2 DOFs et des jambes avec 6 DOFs afin qu’il ressemble le plus possible à la morphologie humaine. Vous me direz pourquoi ne pas avoir utilisé un robot actuel ? Faisons donc un tour de ces humanoïdes, commençons par des robots qui ont minimum 21 DOFs, on peut citer Poppy ou Nao. Le problème de ces robots est leur prix, environ 6000€. Prenons d’autres robots moins chers tels que le Darwin mini, qui sont aux alentours de 500€, le problème pour eux c’est qu’ils n’ont pas le nombre de DOFs souhaité. C’est pour cela que nous nous sommes lancés dans l’aventure : créer un mini humanoïde. Cependant, nous avons des contraintes techniques et financières préalablement défini (en attendant les imprévus), faisons un petit récapitulatif :
+
+* Une motorisation avec des moteurs de chez Robotis (XL320). Ce sont des moteurs performants, puissants et qui ont un chainage en série ce qui permet de réduire le nombre de câbles
+* Avoir une colonne vertébrale avec minimum 2 DOFs
+* Avoir 6 DOFs par jambes
+* Taille du robot : environ 30 cm
+* Prix : inférieur à 1000€
+* Utilisation de SolidWorks pour la conception des pièces. Il n’y a pas d’équivalent en Open Source, ce qui est bien dommage
+* Utilisation du Python et plus particulièrement de la librairie Pypot, développée par l’INRIA
+
+Pour la  programmation, nous allons nous concentrer dans un premier temps sur la marche du robot (en dur, c’est-à-dire sans capteur). Cela permettra de vérifier la mécanique et de tester la marche d’un mini humanoïde avec ces nouveaux DOFs, car cela n’a jamais été réalisé auparavant. Par la suite, nous optimiserons la marche grâce à des capteurs (IMU…) puis nous développerons des applications pour le domaine médical et scolaire.
+De plus, nous avons défini des usages particuliers pour cette plateforme. Nous souhaitons créer une équipe qui participera à la Robocup et pourquoi ne pas la gagner, c’est toujours beau de rêver. Il faut toujours suivre ses *êves, aussi petits soient-ils. Les hôpitaux sont utiles, mais hélas rarement joyeux, notamment pour les enfants qui ont de longs et lourds traitements. C’est pour cela que nous souhaitons créer des applications afin de les faire sourire avec ce nouveau compagnon. Quoi de plus beau dans la vie que de faire sourire les gens ? Notre dernier but est l’éducation.  Nous souhaitons que ce robot devienne une plateforme éducative qui permettrait aux élèves d’apprendre la CAO avec la modification des pièces, la programmation et le travail d’équipe. Le projet sera totalement Open source que ça soit les fichiers hardware ou software, car c’est un projet  « makers ». C’est donc une volonté pour nous, avoir le plus de personnes possible qui participent au développement du robot et que chacun se l’approprie.  
+J'espère que d'autres personnes nous rejoindront dans cette aventure et que vous allez nous suivre aussi longtemps que vous le pouvez :) Le projet se veut collaboratif, nous avons donc besoin de votre participation, car vous êtes la clé de la réussite !
+En espérant que vous soyez indulgent avec ce premier article, promis, ça va s’améliorer par la suite :)
+
+
