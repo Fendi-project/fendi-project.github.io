@@ -1,4 +1,4 @@
-= Le commencement !
+= Le commencement!
 
 :published_at: 2015-03-20
 :hp-tags: actualité
