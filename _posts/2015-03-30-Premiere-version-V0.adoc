@@ -4,6 +4,15 @@
 :hp-tags: V0, Mécanique
 
 
-Le but de cette première version est de pouvoir rapidement arriver à une plateforme fonctionnelle afin de travailler sur le code. Pour cela, nous réutilisons le maximum de pièces du darwin mini que nous possédons afin de réduire les coûts. Cependant, nous voulions rajouter un dégré de liberté par jambe afin de pouvoir faire tourner le robot. De plus, nous voulions aussi lui rajouter une colonne vertébrale afin de lui donner un comportement peu plus humain. Pour cela nous lui avons rajouté 2 moteurs. Au final nous avons gardé les pièces du darwin des bras et des jambes. Avec cela, nous avons une plateforme de développement pour tester ces nouvelles rotations. Par la suite, nous passerons à une nouvelle version entièrement créé ou aucune pièce du robot darwin existera. Nous prendrons en compte les modifications et les améliorations que nous aurons vues lors de la validation de la marche du robot
+Bonjour à tous !
 
-Voici maintenant les plans 3D de cette première version
+Qu’elle est donc cette première plateforme et qu’elle est son but, surtout qu’elle intervient rapidement après le lancement du projet ? 
+Ce premier modèle a été conçu autour du Darwin mini puisque c’est un robot que nous possédions dans nos placards. Le but est de créer rapidement une plateforme afin de tester la solution de la marche avec les degrés de liberté (DOF) supplémentaire. Pour rappel, si vous n’avez pas lu l’article précédent sur le commencement du projet (lien vers l’autre article), nous construisons un robot avec 6 DOFs au niveau des jambes et 2 DOFs au niveau de la colonne vertébrale. Ce qui porte le robot à 21 DOFs contrairement au Darwin mini d’origine qui en possède 17. 
+
+Cette plateforme (le Darwin mini) nous permet de réduire les coûts et le temps de développement en changeant le moins de pièces possible. Nous avons créé quelques nouvelles pièces au niveau de la colonne vertébrale et des hanches. Quant aux bras, aux jambes et à la tête, nous avons gardé les pièces d’origine. Nous avons donc seulement 8 pièces à réimprimer. Par la suite, nous passerons à une nouvelle version qui n’aura plus aucune pièce du Darwin mini. Nous prendrons aussi en compte les modifications et les améliorations qu’entraineront les tests de marche sur la prochaine version.
+
+Les composants sont lancés ! Nous sommes dans les starting-blocks : prêt à recevoir les pièces, monter et tester cette première version.
+
+En cadeau, je vous joins le lien où vous pouvez télécharger la CAO du Darwin mini.
+
+Voici maintenant les plans 3D et 2D de cette première version :
