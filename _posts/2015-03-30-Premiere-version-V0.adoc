@@ -13,6 +13,6 @@ Cette plateforme (le Darwin mini) nous permet de réduire les coûts et le temps
 
 Les composants sont lancés ! Nous sommes dans les starting-blocks : prêt à recevoir les pièces, monter et tester cette première version.
 
-En cadeau, je vous joins le lien où vous pouvez télécharger la CAO du Darwin mini.
+En cadeau, je vous joins le lien où vous pouvez télécharger la CAO du Darwin mini. https://github.com/Alexandre-lefalher/Darwin_mini[Lien]
 
 Voici maintenant les plans 3D et 2D de cette première version :
