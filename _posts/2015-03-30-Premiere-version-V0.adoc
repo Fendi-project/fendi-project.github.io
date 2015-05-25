@@ -8,7 +8,7 @@
 Bonjour à tous !
 
 Qu’elle est donc cette première plateforme et qu’elle est son but, surtout qu’elle intervient rapidement après le lancement du projet ? 
-Ce premier modèle a été conçu autour du Darwin mini puisque c’est un robot que nous possédions dans nos placards. Le but est de créer rapidement une plateforme afin de tester la solution de la marche avec les degrés de liberté (DOF) supplémentaire. Pour rappel, si vous n’avez pas lu l’article précédent sur le commencement du projet (lien vers l’autre article), nous construisons un robot avec 6 DOFs au niveau des jambes et 2 DOFs au niveau de la colonne vertébrale. Ce qui porte le robot à 21 DOFs contrairement au Darwin mini d’origine qui en possède 17. 
+Ce premier modèle a été conçu autour du Darwin mini puisque c’est un robot que nous possédions dans nos placards. Le but est de créer rapidement une plateforme afin de tester la solution de la marche avec les degrés de liberté (DOF) supplémentaire. Pour rappel, si vous n’avez pas lu l’article précédent sur le https://fendi-project.github.io/2015/03/20/Le-commencement.html[commencement du projet], nous construisons un robot avec 6 DOFs au niveau des jambes et 2 DOFs au niveau de la colonne vertébrale. Ce qui porte le robot à 21 DOFs contrairement au Darwin mini d’origine qui en possède 17. 
 
 Cette plateforme (le Darwin mini) nous permet de réduire les coûts et le temps de développement en changeant le moins de pièces possible. Nous avons créé quelques nouvelles pièces au niveau de la colonne vertébrale et des hanches. Quant aux bras, aux jambes et à la tête, nous avons gardé les pièces d’origine. Nous avons donc seulement 8 pièces à réimprimer. Par la suite, nous passerons à une nouvelle version qui n’aura plus aucune pièce du Darwin mini. Nous prendrons aussi en compte les modifications et les améliorations qu’entraineront les tests de marche sur la prochaine version.
 
@@ -22,4 +22,7 @@ Voici maintenant les plans 3D et 2D de cette première version :
 image::dimension_V0.PNG[]
 
 image::V0.png[]
+
+
+Pour ne rien manquer:  https://www.facebook.com/pages/Fendi-project/423401127832644[Facebook], https://twitter.com/fendiproject[Twitter]
 
