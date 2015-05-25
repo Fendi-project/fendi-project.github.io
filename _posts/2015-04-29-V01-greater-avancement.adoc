@@ -1,0 +1,36 @@
+= V0.1 -> avancement
+
+:published_at: 2015-04-29
+:hp-tags: V0.1, Mécanique, avancement
+:hp-image: covers/V0_1.png
+
+
+
+Bonjour tout le monde !
+
+Après avoir reçu les pièces et commencé les tests sur la V0, nous avons décidé de passer à la V0.1 ! 
+Cette version a un tout nouveau squelette, nous avons gardé les pièces de la V0 que nous avions précédemment créée et nous avons supprimé toutes les pièces d’origine. Afin de réduire les coûts du projet et pour faciliter le montage, nous avons créé le moins de pièces différentes. Nous avons donc conçu des pièces standards. En effet, les liaisons entre épaule/coude, hanche/genou et genou/cheville sont définies par la même pièce, ce qui nous fait donc 6 pièces identiques. Cela a été possible grâce à la petite taille du robot et au peu d’emplacements possibles des moteurs. Avoir des pièces standard permet une modification rapide des dimensions du robot.
+
+image::piece_standard.JPG[title="Pièce standard", width="300"]
+
+Après mûre réflexion, nous avons décidé de créer deux types de robots à l’avenir. Une version « squelettique » qui sera donc low cost. Les possibilités de changement d’emplacement des moteurs seront aisées et totalement paramétrables. Cela veut dire qu’il suffira de changer 2-3 cotations pour que le robot change de taille et que les pièces suivent (en théorie cela devrait fonctionner, mais il y aura une certaine limite tout de même).  
+
+L’autre robot sera une version « design ». Des éléments viendront se rajouter au squelette afin d’avoir un robot plus esthétique. Cette version sera donc plus chère, contiendra plus de pièces et sera difficilement modifiable. Nous ne vous donnons pas plus de détail pour l’instant, car nous préférons nous concentrer sur la version squelettique. De plus cette version est actuellement au stade embryonnaire.
+
+La version V0.1 sera testée lorsque nous aurons poussé les tests de la V0 un peu plus loin. Nous voulons faire marcher le robot V0 afin de voir si les angles de rotation sont suffisants et si certaines pièces ne sont pas trop fragiles. Nous allons aussi intégrer l’électronique (carte de contrôle et IMU) dans cette version. Nous reviendrons plus tard avec toutes ces modifications et le lancement de l’impression de ces nouvelles pièces.
+
+Une petite surprise arrivera bientôt suite à une nouvelle collaboration avec un designer pour la création de la tête. Un article lui sera complètement consacré puisque c’est une étape importante pour le robot, il aura sa propre identité ! 
+
+
+Voici maintenant les plans 3D et 2D de cette version améliorée ainsi qu’une mise en plan.
+
+
+
+image::dimension_V0_1.PNG[title="Mise en plan", width="300"] 
+
+
+image::V0_1.png[title="Vue 3D", width="300"]
+
+
+
+Ne rater riende nos avancées :) https://www.facebook.com/pages/Fendi-project/423401127832644[Facebook], https://twitter.com/fendiproject[Twitter]
