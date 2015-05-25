@@ -17,7 +17,7 @@ Après mûre réflexion, nous avons décidé de créer deux types de robots à l
 
 L’autre robot sera une version « design ». Des éléments viendront se rajouter au squelette afin d’avoir un robot plus esthétique. Cette version sera donc plus chère, contiendra plus de pièces et sera difficilement modifiable. Nous ne vous donnons pas plus de détail pour l’instant, car nous préférons nous concentrer sur la version squelettique. De plus cette version est actuellement au stade embryonnaire.
 
-La version V0.1 sera testée lorsque nous aurons poussé les tests de la V0 un peu plus loin. Nous voulons faire marcher le robot V0 afin de voir si les angles de rotation sont suffisants et si certaines pièces ne sont pas trop fragiles. Nous allons aussi intégrer l’électronique (carte de contrôle et IMU) dans cette version. Nous reviendrons plus tard avec toutes ces modifications et le lancement de l’impression de ces nouvelles pièces.
+La version V0.1 sera testée lorsque nous aurons poussé les tests de la V0 un peu plus loin. Nous voulons faire marcher le robot avec la V0 afin de voir si les angles de rotation sont suffisants et si certaines pièces ne sont pas trop fragiles. Nous allons aussi intégrer l’électronique (carte de contrôle et IMU) dans cette version. Nous reviendrons plus tard avec toutes ces modifications et le lancement de l’impression de ces nouvelles pièces.
 
 Une petite surprise arrivera bientôt suite à une nouvelle collaboration avec un designer pour la création de la tête. Un article lui sera complètement consacré puisque c’est une étape importante pour le robot, il aura sa propre identité ! 
 
@@ -33,4 +33,4 @@ image::V0_1.png[title="Vue 3D", width="300"]
 
 
 
-Ne rater riende nos avancées :) https://www.facebook.com/pages/Fendi-project/423401127832644[Facebook], https://twitter.com/fendiproject[Twitter]
+Ne rater rien de nos avancées :) https://www.facebook.com/pages/Fendi-project/423401127832644[Facebook], https://twitter.com/fendiproject[Twitter]
