@@ -14,14 +14,17 @@ Pour commencer, nous avons choisi http://www.sculpteo.com/fr/[Scultéo] pour deu
 
 Nous sommes donc très satisfaits du service et de la qualité d’impression de Scultéo, nous pensons continuer avec eux sauf si un partenariat avec une autre entreprise d’impression 3D se dessine. Si vous en connaissez, nous sommes preneurs de contact !
 
-image::emballagepiece.JPG[title="Reception des pièces", width="300"] 
+image::emballagepiece.JPG[title="Reception des pièces", width="300"]
+
 
 
 Après avoir reçu tous nos petits cadeaux, place au montage ! Nous n’avons pas eu de difficultés particulières, toutes les pièces s’assemblent les unes par rapport aux autres sans problème. Comme vous pouvez le voir, nous n’avons pas monté les bras puisque notre priorité actuelle est la marche du robot.  De plus, nous rajoutons 1DOF par jambes et 2 DOFs dans la colonne vertébrale et nous avons besoin de 4 moteurs supplémentaires. Ces moteurs seront commandés plus tard avec la prochaine commande de l’électronique. Cela permet de réduire les coûts au niveau des frais de port.
 
 image::robotmonteramoitie.JPG[title="Robot avec seulement les jambes", width="300"] 
 
+
 image::full_montage.jpg[title="Robot monté sans les bras", width="300"]
+
 
 
 Maintenant, commençons la programmation et la marche du robot ! Affaire à suivre…
