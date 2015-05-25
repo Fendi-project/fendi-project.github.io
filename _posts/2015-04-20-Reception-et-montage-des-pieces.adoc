@@ -1,0 +1,30 @@
+= Reception et montage des pièces
+
+:published_at: 2015-04-20
+:hp-tags: V0, Mécanique, achat
+:hp-image: covers/full_montage.jpg
+
+
+
+Bonjour !
+
+Nous venons de recevoir toutes nos pièces imprimées en 3D, nous allons donc vous faire un retour utilisateur sur Scultéo, la société que nous avons choisie pour l’impression des pièces. Nous n’avons pas pu les imprimer avec une imprimante de « makers », car nous n’en possédons pas. Nous vous montrerons aussi les photos de l’assemblage pour que vous ayez un aperçu réel du robot.
+
+Pour commencer, nous avons choisi http://www.sculpteo.com/fr/[Scultéo] pour deux grandes raisons : le fait d’être une société française et d’avoir des prix abordables par rapport à la concurrence. En effet, nous avons testé différentes sociétés comme http://i.materialise.com[i.materialise] ou encore http://www.shapeways.com[Shapeway], sur certaines pièces le prix est moins cher que Scultéo, mais le total reste plus élevé. Les prix varient selon l’algorithme utilisé par ces sociétés, certaines réduisent énormément les coûts au bout de la 2ème pièce identique, d’autres ont des coûts qui varient très peu suivant le nombre de pièces... Quant à Scultéo, le prix est faible à l’unité et le prix diminue très peu avec la quantité. En dehors du coût financier,  Scultéo présente d’autres avantages techniques et pratiques que les concurrents ne proposent pas. Il y a une fonction qui nous simplifie la vie à vrai dire, celle de pouvoir mettre plusieurs pièces en même temps. On met toutes les pièces dans un fichier zip et le tour est joué. Afin de réduire le prix des pièces, nous avons choisi la livraison économique, c’est-à-dire que les pièces éligibles sont envoyées dans un laps de temps plus long. Attention, toutes les pièces ne sont pas éligibles et je ne sais pas du tout comment est déterminée cette éligibilité. Au niveau de la livraison, nous recevons donc les pièces au compte-goutte, pas moins de 4 livraisons pour 8 pièces. Les délais de livraison sont tenus, les pièces sont bien emballées et protégées. 
+
+Nous sommes donc très satisfaits du service et de la qualité d’impression de Scultéo, nous pensons continuer avec eux sauf si un partenariat avec une autre entreprise d’impression 3D se dessine. Si vous en connaissez, nous sommes preneurs de contact !
+
+image::emballagepiece.JPG[title="Reception des pièces", width="500"] 
+
+
+Après avoir reçu tous nos petits cadeaux, place au montage ! Nous n’avons pas eu de difficultés particulières, toutes les pièces s’assemblent les unes par rapport aux autres sans problème. Comme vous pouvez le voir, nous n’avons pas monté les bras puisque notre priorité actuelle est la marche du robot.  De plus, nous rajoutons 1DOF par jambes et 2 DOFs dans la colonne vertébrale et nous avons besoin de 4 moteurs supplémentaires. Ces moteurs seront commandés plus tard avec la prochaine commande de l’électronique. Cela permet de réduire les coûts au niveau des frais de port.
+
+image::robotmonteramoitie.JPG[title="Robot avec seulement les jambes", width="500"] 
+
+image::full_montage.jpg[title="Robot monté sans les bras", width="500"]
+
+
+Maintenant, commençons la programmation et la marche du robot ! Affaire à suivre…
+
+
+Pour vous tenir au courant de toutes l'actualités, suivez-nous https://www.facebook.com/pages/Fendi-project/423401127832644[Facebook], https://twitter.com/fendiproject[Twitter]
