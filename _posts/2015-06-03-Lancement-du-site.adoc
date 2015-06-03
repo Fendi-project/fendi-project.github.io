@@ -1,4 +1,5 @@
 = Lancement du site
+:published_at: 2015-06-03
 :hp-tags: Communication
 :hp-image: covers/site.PNG
 
