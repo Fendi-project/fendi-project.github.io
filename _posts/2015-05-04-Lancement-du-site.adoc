@@ -1,0 +1,23 @@
+= Lancement du site
+:hp-tags: Communication
+:hp-image: covers/site.PNG
+
+
+Bonjour tout le monde,
+
+Grande nouvelle aujourd’hui afin d'avoir une meilleure visibilité du projet, nous avons créé un site web qui regroupe toutes les informations. Le site a été créé par notre partenaire Fabien Dutaud Web développeur qui a réalisé un très beau travail en très peu de temps. Je vous le recommande pour votre prochain site, car c’est une personne compréhensive et efficace.
+
+Au niveau du site, vous y retrouverez les 4 points importants du projet :
+
+* Créer une équipe pour participer à la Robotcup 
+* Redonner le sourire aux enfants hospitalisés 
+* Avoir un aspect éducatif
+* Opensource (hardware et software)
+
+Il y a également une description de l'équipe qui participe au projet ainsi que les différents partenariats que nous avons pour le moment. Quant à la page "aidez-nous", elle vous permet de postuler pour venir vous amuser avec nous, mais aussi pour recueillir vos dons. Le projet étant long et coûteux, nous avons besoin de vous, que ce soit pour la technique ou l’aspect financier. La demande de partenariat se fait aussi via cette page. Nous recherchons des partenariats pour l’achat de composants et pour l’impression 3D. Toute participation est la bienvenue.
+
+Au niveau du blog, nous continuerons de vous décrire l’avancement de Fendi. De plus, nous partagerons avec vous les tests de composants que nous utiliserons sur le robot, des vidéos « epic fail » et pleins d’autres surprises sont à venir. Le but est de véritablement créer un échange avec vous sur ce projet afin d’avoir le maximum de retour.
+
+Si vous remarquez des bugs, des erreurs, des suggestions d’amélioration ou si vous souhaitez plus de détails sur le projet, n'hésitez pas à nous contacter. Vous êtes les bienvenus !
+
+Suivez-nous sur Twitter, Facebook
